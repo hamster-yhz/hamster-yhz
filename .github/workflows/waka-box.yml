@@ -15,5 +15,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # 可选配置:
-          # GIST_NAME: 'Weekly Wakatime Stats' # 自定义 Gist 文件名，默认为 WakaTime stats
+          GIST_NAME: 'Weekly Wakatime Stats' # 自定义 Gist 文件名，默认为 WakaTime stats
           # WAKATIME_BASE_URL: 'https://wakatime.com/api/v1' # 如果您使用 Wakapi 等兼容后端，请更改此项
