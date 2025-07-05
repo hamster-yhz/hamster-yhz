@@ -1,0 +1,19 @@
+name: Update gist with WakaTime stats
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天午夜运行
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update gist
+        uses: g1eny0ung/waka-box@v6 # 推荐使用这个更快的分支
+        env:
+          GIST_ID: ${{ secrets.GIST_ID }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # 可选配置:
+          # GIST_NAME: 'Weekly Wakatime Stats' # 自定义 Gist 文件名，默认为 WakaTime stats
+          # WAKATIME_BASE_URL: 'https://wakatime.com/api/v1' # 如果您使用 Wakapi 等兼容后端，请更改此项
