@@ -17,6 +17,8 @@ I'm a Java Backend Developer passionate about building scalable and efficient ap
 
 ![My WakaTime Stats](https://gist.github.com/hamster-yhz/be5dfc25f507c9b5b79afe52c39021ed.js)
 
+![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hamster_yhz&layout=compact&hide_title=true&hide_border=true&card_width=320&langs_count=5&theme=darcula)](https://wakatime.com/@hamster_yhz)
+
 ## 🌱 My Current Projects
 
 -   **[项目A](项目A链接)**: 
