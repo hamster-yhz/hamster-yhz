@@ -25,4 +25,4 @@ I'm a Java Backend Developer passionate about building scalable and efficient ap
 ## 📫 How to reach me:
 
 -   Email: [email@655353.xyz]
--   Bloog:［https://myblog.vn.kg］
+-   Bloog: https://myblog.vn.kg
