@@ -16,6 +16,16 @@ I'm a Java Backend Developer passionate about building scalable and efficient ap
 ## 👋 My Weekly WakaTime
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 03 November 2025 - To: 03 November 2025
+
+Total Time: 0 hrs 0 mins
+
+Java       0 hrs 0 mins    ████████████▓░░░░░░░░░░░░   50.00 %
+Markdown   0 hrs 0 mins    ████████████▓░░░░░░░░░░░░   50.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 🌱 My Current Projects
