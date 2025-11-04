@@ -22,8 +22,8 @@ From: 03 November 2025 - To: 03 November 2025
 
 Total Time: 0 hrs 0 mins
 
-Java       0 hrs 0 mins    ████████████▓░░░░░░░░░░░░   50.00 %
-Markdown   0 hrs 0 mins    ████████████▓░░░░░░░░░░░░   50.00 %
+Markdown   0 hrs 0 mins    ██████████████████████░░░   87.50 %
+Java       0 hrs 0 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
 ```
 
 <!--END_SECTION:waka-->
