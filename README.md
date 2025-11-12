@@ -22,10 +22,10 @@ From: 06 November 2025 - To: 09 November 2025
 
 Total Time: 2 hrs 13 mins
 
-YAML           1 hrs 23 mins   ███████████████▓░░░░░░░░░   62.18 %
+YAML           1 hrs 23 mins   ███████████████▓░░░░░░░░░   62.19 %
 Markdown       0 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
 Bash           0 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
-Java           0 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+Java           0 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
 Docker         0 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
 Dockerfile     0 hrs 2 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
