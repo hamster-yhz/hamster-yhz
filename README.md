@@ -10,7 +10,7 @@ I'm a Java Backend Developer passionate about building scalable and efficient ap
 [![EMAIL](https://img.shields.io/badge/EMAIL-orange)](https://mail.909333.xyz)
 
 ## 💖 This is your IP information
-[![Visitor IP information card](https://my.ippure.com/v1/card)](https://ippure.com "Click to view IP information")
+[![Visitor IP information card](https://my.ippure.com/v1/card)](https://ippure.com "点击查看IP信息")
 
 ## 📊 GitHub Stats
 
