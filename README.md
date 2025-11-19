@@ -9,6 +9,9 @@ I'm a Java Backend Developer passionate about building scalable and efficient ap
 [![PHOTO](https://img.shields.io/badge/PHOTO-green)](https://yuanshen-image.909333.xyz)
 [![EMAIL](https://img.shields.io/badge/EMAIL-orange)](https://mail.909333.xyz)
 
+## 💖 This is your IP information
+[![Visitor IP information card](https://my.ippure.com/v1/card)](https://ippure.com "Click to view IP information")
+
 ## 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamster-yhz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
