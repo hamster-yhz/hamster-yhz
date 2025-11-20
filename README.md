@@ -18,16 +18,16 @@ I'm a Java Backend Developer passionate about building scalable and efficient ap
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2025 - To: 17 November 2025
+From: 17 November 2025 - To: 20 November 2025
 
-Total Time: 0 hrs 26 mins
+Total Time: 0 hrs 24 mins
 
-Markdown       0 hrs 17 mins   ████████████████░░░░░░░░░   64.47 %
-Shell script   0 hrs 8 mins    ████████░░░░░░░░░░░░░░░░░   32.52 %
-Java           0 hrs 0 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Bash           0 hrs 0 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Dockerfile     0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-YAML           0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown       0 hrs 15 mins   ███████████████▒░░░░░░░░░   61.87 %
+Shell script   0 hrs 8 mins    ████████▓░░░░░░░░░░░░░░░░   34.72 %
+Java           0 hrs 0 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Bash           0 hrs 0 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+YAML           0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Dockerfile     0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
