@@ -22,8 +22,8 @@ From: 17 November 2025 - To: 20 November 2025
 
 Total Time: 0 hrs 24 mins
 
-Markdown       0 hrs 15 mins   ███████████████▒░░░░░░░░░   61.87 %
-Shell script   0 hrs 8 mins    ████████▓░░░░░░░░░░░░░░░░   34.72 %
+Markdown       0 hrs 15 mins   ███████████████▒░░░░░░░░░   61.84 %
+Shell script   0 hrs 8 mins    ████████▓░░░░░░░░░░░░░░░░   34.74 %
 Java           0 hrs 0 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 Bash           0 hrs 0 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 YAML           0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
