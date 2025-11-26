@@ -25,8 +25,8 @@ Total Time: 0 hrs 4 mins
 Markdown       0 hrs 4 mins    ████████████████████████▓   98.77 %
 YAML           0 hrs 0 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 Dockerfile     0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Json           0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Shell script   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Json           0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
