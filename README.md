@@ -20,12 +20,12 @@ I'm a Java Backend Developer passionate about building scalable and efficient ap
 ```txt
 From: 28 November 2025 - To: 28 November 2025
 
-Total Time: 0 hrs 46 mins
+Total Time: 0 hrs 38 mins
 
-YAML           0 hrs 34 mins   ██████████████████▓░░░░░░   75.01 %
-Markdown       0 hrs 9 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.73 %
-XML            0 hrs 1 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Java           0 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+YAML           0 hrs 27 mins   █████████████████▒░░░░░░░   69.94 %
+Markdown       0 hrs 9 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.93 %
+XML            0 hrs 1 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Java           0 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 Shell script   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 Dockerfile     0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
