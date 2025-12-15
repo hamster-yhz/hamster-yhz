@@ -25,9 +25,9 @@ Total Time: 0 hrs 24 mins
 Html           0 hrs 24 mins   ████████████████████████▓   98.43 %
 Markdown       0 hrs 0 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 Java           0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Plain_text     0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Textmate       0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Shell script   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Dockerfile     0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Plain_text     0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
