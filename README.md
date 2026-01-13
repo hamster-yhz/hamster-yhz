@@ -29,4 +29,4 @@ No activity tracked
 
 ## 📫 How to reach me:
 
--   Email: [email@655353.xyz]
+-  Email: [email@655353.xyz]
