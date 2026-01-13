@@ -2,7 +2,7 @@
 
 I'm a Java Backend Developer passionate about building scalable and efficient applications.
 
-## 😍 Welocm To My Website
+## 😍 Welocm To My Website (You can click it)
 
 [![MYBLOG](https://img.shields.io/badge/MYBLOG-blue)](https://myblog.vn.kg)
 [![HAWKEYE](https://img.shields.io/badge/HAWKEYE-rad)](https://hawkeye.655353.xyz)
@@ -11,7 +11,7 @@ I'm a Java Backend Developer passionate about building scalable and efficient ap
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamster-yhz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://stats.909333.xyz/api/top-langs/?username=hamster-yhz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👋 My Weekly WakaTime
 
