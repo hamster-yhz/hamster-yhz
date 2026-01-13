@@ -11,7 +11,7 @@ I'm a Java Backend Developer passionate about building scalable and efficient ap
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://stats.909333.xyz/api/top-langs/?username=hamster-yhz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://stats.909333.xyz/api/top-langs/?username=hamster-yhz&layout=compact&theme=radical)](https://github.com/hamster-yhz/hamster-yhz)
 
 ## 👋 My Weekly WakaTime
 
