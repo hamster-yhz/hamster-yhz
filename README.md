@@ -22,8 +22,8 @@ From: 01 April 2026 - To: 04 April 2026
 
 Total Time: 0 hrs 4 mins
 
-Java       0 hrs 3 mins          █████████████████░░░░░░░░   67.98 %
-Markdown   0 hrs 1 mins          ████████░░░░░░░░░░░░░░░░░   32.02 %
+Java       0 hrs 3 mins          █████████████████░░░░░░░░   67.86 %
+Markdown   0 hrs 1 mins          ████████░░░░░░░░░░░░░░░░░   32.14 %
 ```
 
 <!--END_SECTION:waka-->
