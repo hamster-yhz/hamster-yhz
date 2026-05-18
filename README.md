@@ -32,6 +32,10 @@ XML              1 hrs 11 mins         ▓░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+## 💵 My Token Stats
+
+[![Token Stats](https://tokscale.ai/api/embed/<username>/svg)](https://tokscale.ai/u/<username>)
+
 ## 📫 How to reach me:
 
 -  Email: [email@655353.xyz]
