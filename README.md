@@ -34,7 +34,7 @@ XML              1 hrs 11 mins         ▓░░░░░░░░░░░░�
 
 ## 💵 My Token Stats
 
-[![Token Stats](https://tokscale.ai/api/embed/<username>/svg)](https://tokscale.ai/u/<username>)
+[![Token Stats](https://tokscale.ai/api/embed/hamster-yhz/svg)](https://tokscale.ai/u/hamster-yhz)
 
 ## 📫 How to reach me:
 
