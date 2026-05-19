@@ -34,7 +34,7 @@ SQL              2 hrs 44 mins         ▓░░░░░░░░░░░░�
 
 ## 💵 My Token Stats
 
-[![Token Stats](https://tokscale.ai/api/embed/hamster-yhz/svg)](https://tokscale.ai/u/hamster-yhz)
+[![Token Stats](https://tokscale.ai/api/embed/hamster-yhz/svg?sort=cost)](https://tokscale.ai/u/hamster-yhz)
 
 ## 📫 How to reach me:
 
