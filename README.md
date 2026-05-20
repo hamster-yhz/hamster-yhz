@@ -18,16 +18,16 @@ I'm a Java Backend Developer passionate about building scalable and efficient ap
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2026 - To: 19 May 2026
+From: 20 April 2026 - To: 20 May 2026
 
-Total Time: 111 hrs 17 mins
+Total Time: 110 hrs 13 mins
 
-Java             56 hrs 5 mins         ████████████▓░░░░░░░░░░░░   50.40 %
-Typescript       16 hrs 7 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
-Markdown         12 hrs 5 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
-Vue              8 hrs 20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
-Unknown          4 hrs 49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-SQL              2 hrs 44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Java             54 hrs 31 mins        ████████████▒░░░░░░░░░░░░   49.47 %
+Typescript       16 hrs 6 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 %
+Markdown         12 hrs 23 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+Vue              8 hrs 11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+Unknown          5 hrs 12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+SQL              2 hrs 41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
 ```
 
 <!--END_SECTION:waka-->
