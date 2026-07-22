@@ -34,7 +34,7 @@ Unknown      0 hrs 18 mins         ██░░░░░░░░░░░░░
 
 ## 💵 My Token Stats
 
-[![Token Stats](https://tokscale.ai/api/embed/hamster-yhz/svg?sort=cost)](https://tokscale.ai/u/hamster-yhz)
+[![TokenTracker Total Usage](https://srctyff5.us-east.insforge.app/functions/tokentracker-embed-svg?user_id=54d4b64f-8742-4217-bce1-e42ebfcc3a98&theme=dark&period=total)](https://www.tokentracker.cc/u/54d4b64f-8742-4217-bce1-e42ebfcc3a98?ref=readme)
 
 ## 📫 How to reach me:
 
