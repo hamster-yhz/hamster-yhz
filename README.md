@@ -20,9 +20,9 @@ I'm a Java Backend Developer passionate about building scalable and efficient ap
 ```txt
 From: 28 October 2026 - To: 01 November 2026
 
-Total Time: 11 hrs 53 mins
+Total Time: 11 hrs 45 mins
 
-Codex   11 hrs 53 mins        █████████████████████████   100.00 %
+Codex   11 hrs 45 mins        █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
